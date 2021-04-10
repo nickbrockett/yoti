@@ -2,7 +2,7 @@
 
 # Service
 SERVICE_DIR := service
-SERVICE_BINARY := service
+SERVICE_BINARY := service.o
 
 build:
 	cd $(SERVICE_DIR)/ ; go build -o $(SERVICE_BINARY)

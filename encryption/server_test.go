@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"priva.te/yoti/dataService"
+	"github.com/nickbrockett/yoti/dataService"
 )
 
 func TestEncryptionServer(t *testing.T) {

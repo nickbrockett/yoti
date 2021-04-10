@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"priva.te/yoti/dataService"
-	"priva.te/yoti/encryption"
+	"github.com/nickbrockett/yoti/dataService"
+	"github.com/nickbrockett/yoti/encryption"
 )
 
 var (

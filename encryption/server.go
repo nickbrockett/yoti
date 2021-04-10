@@ -7,7 +7,7 @@ import (
 	"errors"
 	"io"
 
-	"priva.te/yoti/dataService"
+	"github.com/nickbrockett/yoti/dataService"
 )
 
 // Server is an encryption-server which implements the Client interface.
